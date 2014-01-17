@@ -1,0 +1,9 @@
+<?php
+/**
+ * mongodb
+ */
+class CMongoDb
+{
+	
+}
+
