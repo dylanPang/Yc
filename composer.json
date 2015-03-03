@@ -1,0 +1,7 @@
+{
+    "name":"dylan/ycFramework",
+    "description":"my framework",
+    "require":{
+        "php":">=5.3.0"
+    }
+}
